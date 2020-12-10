@@ -1,4 +1,4 @@
-# NetLicensing (Tomcat v7.x + JDK8) Example
+# NetLicensing (Tomcat 7.x + JDK8) Example
 
 ## How To
 
